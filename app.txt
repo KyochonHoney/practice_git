@@ -1,7 +1,7 @@
 this is a first commmmmmit
 this is a second commmmmmit
 this is a third commmmmmit
-
+this is first edit on Master branch
 
 
 
@@ -17,3 +17,10 @@ git log --all -oneline
     - 여태까지 커밋한 모든 로그들을 찍어서 본다
 git difftool
     - vi편집기 느낌
+(vscode git graph) extension 깔면 버전 관리에 편할 수 있음
+git branch 브랜치명
+    - 브랜치 생성
+git switch 브랜치명
+    - 브랜치 이동동
+git log --all --oneline --graph
+    - 모든 커밋을 그래프로 나타내줌
