@@ -24,3 +24,9 @@ git switch 브랜치명
     - 브랜치 이동동
 git log --all --oneline --graph
     - 모든 커밋을 그래프로 나타내줌
+git branch -d 브랜치명
+    - 브랜치 삭제
+git rebase 중심브랜치명
+    - main브랜치의 옛버전에서 나온 브랜치를 가장 최신의 메인 브랜치 위로 떼어옴
+git merge 브랜치명 + -- squash 새브런치 -> merge가 깨끗하게 됨 ( 로그에서 )
+    - 3-way merge 코드 합치기
