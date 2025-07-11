@@ -17,3 +17,4 @@ git log --all -oneline
     - 여태까지 커밋한 모든 로그들을 찍어서 본다
 git difftool
     - vi편집기 느낌
+(vscode git graph) extension 깔면 버전 관리에 편할 수 있음
