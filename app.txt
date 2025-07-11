@@ -34,3 +34,7 @@ git restore --source ID
     - 본격 버전관리 (코드 돌리기)
 git revert ID
     - commit 취소
+git reset --hard ID
+    - 코드 아예 돌아가기 (복구 불가능 때문에 잘 안 씀)
+git push -u 
+    - github 올리기
